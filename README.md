@@ -1,10 +1,7 @@
 # E-commerce website
 Fullstack website using ReactJS, Next and Sanity.
 
-![image](https://user-images.githubusercontent.com/52057929/185793793-3fc6abef-c661-4293-9024-704e2353c169.png)
-
-
-![image](https://user-images.githubusercontent.com/52057929/185793779-579d3551-0f6d-418b-9083-431be10330cc.png)
+![image](https://user-images.githubusercontent.com/52057929/216837020-fa5ffc32-c075-47db-b4f5-fc3ec9cdb2bd.png)
 
 ![image](https://user-images.githubusercontent.com/52057929/185793801-a29d2613-1207-418d-9833-6e41db7f8133.png)
 
